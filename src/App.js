@@ -8,10 +8,14 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
 <<<<<<< HEAD
+<<<<<<< HEAD
         Mak Jelou
 =======
           Edit <code>src/App.js</code> and save to reload.
 >>>>>>> ea363d6 (Initialize project using Create React App)
+=======
+          Rey Catipay
+>>>>>>> dff0967 (Activity 6)
         </p>
         <a
           className="App-link"
