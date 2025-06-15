@@ -1,6 +1,10 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   "name": "reaction",
+=======
+  "name": "react-app",
+>>>>>>> ea363d6 (Initialize project using Create React App)
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -36,6 +40,7 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
 =======
   "name": "scrape-backend",
   "version": "1.0.0",
@@ -55,5 +60,7 @@
     "nodemon": "^3.1.10",
     "xml2js": "^0.6.2"
 >>>>>>> 91362ba (Activity 7)
+=======
+>>>>>>> ea363d6 (Initialize project using Create React App)
   }
 }
